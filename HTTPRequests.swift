@@ -14,7 +14,6 @@ import Foundation
 
     Example of request
     
-    //MARK: Customer Register Services
     func testCreateCustomerParams() -> Void {
         let action = "user/login"
         let parameters : [String : AnyObject] = [
